@@ -9,9 +9,9 @@ Write-Host "=== Factorio Update Script ===" -ForegroundColor Cyan
 $ReleaseType = "stable"  
 
 # Path Settings
-$FactorioPath = "C:\Users\Vasekdvor\Desktop\STEAM_SERVERY\Factorio"
-$PlayerData = "C:\Users\Vasekdvor\Desktop\STEAM_SERVERY\Factorio\player-data.json"
-$ConfigPath = "C:\Users\Vasekdvor\Desktop\STEAM_SERVERY\Factorio\config\config.ini"
+$FactorioPath = "C:\Users\USERNAME\Desktop\STEAM_SERVERY\Factorio"
+$PlayerData = "C:\Users\USERNAME\Desktop\STEAM_SERVERY\Factorio\player-data.json"
+$ConfigPath = "C:\Users\USERNAME\Desktop\STEAM_SERVERY\Factorio\config\config.ini"
 
 # *************************** Change paths & Release type above ***************************
 
