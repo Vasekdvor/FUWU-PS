@@ -22,12 +22,16 @@ $ConfigPath = "C:\Users\USERNAME\Desktop\STEAM_SERVERY\Factorio\config\config.in
 # *************************** Change paths & Release type above ***************************
 ```
 
-To execute this file simply run Powershell in windows (ideally as administrator) and then change path to folder where you have this script saved (factorio root folder) using 
+To execute this file simply run Powershell in windows (ideally as administrator) 
 
-`cd` command 
+  Start -> type "powershell" -> right click on powershell.exe -> run as administrator
+
+and then change path to folder where you have this script saved (factorio root folder) using 
+
+  `cd` command for example `cd C:\Users\USERNAME\Desktop\STEAM_SERVERY\Factorio`
 
 and then run it with command:
 
-`.\FUWU_EN_NT.ps1` 
+  `.\FUWU_EN_NT.ps1` 
 
-and wait until it updates to the latest version (experimental or stable).
+and wait until it updates factorio to the latest version (experimental or stable).
