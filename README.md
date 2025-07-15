@@ -7,15 +7,6 @@ Save this file to your factorio root folder.
 
 To make it work just change the Paths & Release type in asterisk section at the top of the file:
 
-# FUWU-PS
-Factorio Universal Windows Updater - PowerShell
-
-This is an automated update script written in powershell to update factorio on Windows. 
-It is not intended for use with Factorio installed using Steam.
-Save this file to your factorio root folder.
-
-To make it work just change the Paths & Release type in asterisk section at the top of the file:
-
 ```powershell
 # *************************** Change paths & Release type below ***************************
 
